@@ -1,1 +1,1 @@
-
+Hey, I'm Adrian, A third year Computing student at TU Dublin. I'm Currently gaining hands-on experience as a Software Engineer Intern at Mastercard working on the commercial transactions managemnt and controls team.
